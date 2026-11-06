@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:6d28d9,100:06b6d4&height=240&section=header&text=Rahul%20Raikwar&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20MERN%20Stack%20Learner&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:6d28d9,100:06b6d4&height=240&section=header&text=Rahul%20Raikwar&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Exploring%20Generative%20AI&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+I'm+Rahul+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Learning+MERN+Stack+%F0%9F%92%BB;Building+EaseUI+%E2%9C%A8;Turning+ideas+into+interfaces+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hey+I'm+Rahul+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Exploring+Generative+AI+%F0%9F%A4%96;Building+EaseUI+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rahulraikwar17&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-<a href="https://github.com/Rahulraikwar17?tab=followers">
-  <img src="https://img.shields.io/github/followers/Rahulraikwar17?style=for-the-badge&logo=github&label=Followers&color=06b6d4&labelColor=0f172a" />
+<a href="https://portfolio-pi-indol-70ywxe5882.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://github.com/Rahulraikwar17?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Rahulraikwar17?style=for-the-badge&logo=github&label=Stars&color=a78bfa&labelColor=0f172a" />
+<img src="https://komarev.com/ghpvc/?username=Rahulraikwar17&label=Profile%20Views&color=06b6d4&style=for-the-badge" />
+<a href="https://github.com/Rahulraikwar17?tab=followers">
+  <img src="https://img.shields.io/github/followers/Rahulraikwar17?style=for-the-badge&logo=github&label=Followers&color=a78bfa&labelColor=0f172a" />
 </a>
 
 </div>
@@ -22,17 +22,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer from India 🇮🇳** who loves building clean, modern and interactive UIs.
-Right now I'm leveling up into a **Full Stack (MERN) Developer**. 🚀
+I'm a **MERN Stack Developer from India 🇮🇳** who loves building clean, modern and interactive interfaces.
+Right now I'm exploring **Generative AI** to build smarter web apps. 🤖
 
 ```js
 const rahul = {
-  role: "Frontend Developer → MERN Stack Developer",
+  role: "MERN Stack Developer",
   location: "India 🇮🇳",
   currentlyBuilding: "EaseUI - reusable UI component library 🧩",
-  currentlyLearning: ["Node.js", "Express.js", "MongoDB", "Advanced React", "GSAP"],
-  interestedIn: ["UI/UX", "Design Systems", "Web Animations", "Creative Development"],
-  funFact: "I turn coffee into components ☕ → 🧱"
+  currentlyLearning: ["Generative AI", "GSAP & Web Animations"],
+  interestedIn: ["UI/UX", "Design Systems", "Creative Development", "AI-powered Apps"]
 };
 ```
 
@@ -43,36 +42,24 @@ const rahul = {
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,typescript" />
 </p>
 
-**Backend & Database** *(learning 🌱)*
+**Backend & Database**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 ---
 
-## 🌱 MERN Stack Journey
-
-| Technology | Status | Progress |
-|:-----------|:------:|:---------|
-| ⚛️ React.js | ✅ Comfortable | ![](https://geps.dev/progress/80?dangerColor=06b6d4&warningColor=06b6d4&successColor=06b6d4) |
-| 🟢 Node.js | 🔄 Learning | ![](https://geps.dev/progress/40?dangerColor=a78bfa&warningColor=a78bfa&successColor=a78bfa) |
-| 🚂 Express.js | 🔄 Learning | ![](https://geps.dev/progress/35?dangerColor=a78bfa&warningColor=a78bfa&successColor=a78bfa) |
-| 🍃 MongoDB | 🔄 Learning | ![](https://geps.dev/progress/30?dangerColor=a78bfa&warningColor=a78bfa&successColor=a78bfa) |
-| 🎞️ GSAP | 🔄 Learning | ![](https://geps.dev/progress/45?dangerColor=a78bfa&warningColor=a78bfa&successColor=a78bfa) |
-
----
-
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🧩 EaseUI
 > A modern, reusable and customizable UI component library built with React.
@@ -82,7 +69,14 @@ const rahul = {
 - 📦 Easy to plug into any project
 
 <a href="https://github.com/Rahulraikwar17?tab=repositories">
-  <img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_on_GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+### 🌐 Portfolio
+> My personal portfolio with projects, skills and contact.
+
+<a href="https://portfolio-pi-indol-70ywxe5882.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 ---
@@ -98,18 +92,13 @@ const rahul = {
   <img src="https://streak-stats.demolab.com?user=Rahulraikwar17&theme=tokyonight&hide_border=true&background=0f172a&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulraikwar17&bg_color=0f172a&color=a78bfa&line=06b6d4&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
 ---
 
 ## 🎯 Currently Working On
 
 - 🔭 Building **EaseUI** component library
-- 🌱 Learning **MERN Stack** (Node, Express, MongoDB)
+- 🤖 Learning **Generative AI**
 - 🎞️ Exploring **GSAP & Web Animations**
-- 🎯 Goal: build **full-stack projects** and become a **Full Stack Developer**
 
 ---
 
@@ -125,9 +114,6 @@ const rahul = {
 </a>
 <a href="mailto:YOUR-EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR-USERNAME">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <br/><br/>
